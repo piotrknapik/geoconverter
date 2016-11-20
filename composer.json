@@ -1,0 +1,18 @@
+{
+  "name": "piotrknapik/geoconverter",
+  "description": "Convert data between geodetic systems: WGS 84, UTM and polish 1992 & 2000",
+  "version": "1.0.0",
+  "type": "library",
+  "homepage": "https://github.com/piotrknapik/geoconverter",
+  "authors": [
+    {
+      "name": "Krzysztof Naus"
+    },
+    {
+      "name": "Piotr Knapik"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src/UtmConverter.php"]
+  }
+}
