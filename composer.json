@@ -6,7 +6,7 @@
   "homepage": "https://github.com/piotrknapik/geoconverter",
   "require": {
     "php": ">=7.4"
-  }
+  },
   "authors": [
     {
       "name": "Krzysztof Naus"
